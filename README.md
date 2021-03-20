@@ -1,2 +1,8 @@
-# Natural-Language-Processing-NLP-with-Python
-This Repo Includes Natural Language Processing Work  that I did. These are fully functional Programs written by myself in Python Language in Jupyter Notebook. - Requirements: Jupyter Notebook -Open the .IPYNB file to open the full Program
+# Details
+This repo consist of Natural Language Processing Work.Programs are made with different methodology.These are fully functional Programs written by myself from scratch in Python language , NLP and other Needs. some of them includes.
+
+# Requirements:
+Jupyter Notebook
+
+# Note:
+Open the .IPYNB file in each folder to open the full project.. You are more than welcome to improve the Programs by contributing to them. Star the repo if you found it useful.
