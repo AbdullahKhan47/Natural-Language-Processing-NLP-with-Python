@@ -1,0 +1,34 @@
+{
+	"intents": [{
+			"tag": "greeting",
+			"patterns": ["Hi", "hi", "hye", "how are you", "is anyone there?", "Hello", "hello"],
+			"responses": ["Hi there", "how can i help you", "hello thanks for visiting", "Good to see you"]
+
+		},
+		{
+			"tag": "queries",
+			"patterns": ["how to order", "how much time it takes to deliver the order", "are there multiple payments method", "how to select a restaurant", "what are the payment methods"],
+			"responses": ["Select a restaurant and order according to your taste", "It depends upon the restaurant and your location", "yes there are multiple payment methods", "Select Food and there will be list of restaurants", "COD and from different cards"]
+		},
+		{
+			"tag": "thanks",
+			"patterns": ["Thanks", "thanks", "Thank you", "very helpful", "that's helpful"],
+			"responses": ["My pleausre", "Happy to help", "Any Time!!"]
+		},
+		{
+			"tag": "apologies",
+			"patterns": ["where is my order", "rider is too late", "Your service is quite bad", "I am deleting foodpanda"],
+			"responses": ["your order will be there shortly", "sorry for the delay check the map to get rider location", "Apologies for the hurdle we will try our best next time"]
+		},
+		{
+			"tag": "information",
+			"patterns": ["is there any voucher available", "how to change my location", "how to check my profile", "are there any offers", "how to chamge my number"],
+			"responses": ["you can see that in your availber voucher menu", "Just select location option at the start of the app", "Select the menu on left from there you can check your profile", "open the list of restaurants from there you can see", "you can do that by editing your profile"]
+		},
+		{
+			"tag": "cancel",
+			"patterns": ["can i cancel my order now", "how to cancel my order", "Food is to late i want to cancel my order"],
+			"responses": ["No!! its to late to do that", "Select options below form there you can", "sorry for the delay food will be there shortly"]
+		}
+	]
+}
